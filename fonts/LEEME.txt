@@ -1,0 +1,2 @@
+Pon aquí el archivo de la tipografía Mundo Moderno con el nombre MundoModerno.woff2 (o .otf / .ttf).
+Si no está, los botones usan Montserrat Alternates automáticamente.
